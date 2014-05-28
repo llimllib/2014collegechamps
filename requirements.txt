@@ -2,6 +2,7 @@ BeautifulSoup==3.2.1
 Jinja2==2.7.2
 MarkupSafe==0.23
 backports.ssl-match-hostname==3.4.0.2
+beautifulsoup4==4.3.2
 gnureadline==6.3.3
 ipython==2.1.0
 numpy==1.8.1
