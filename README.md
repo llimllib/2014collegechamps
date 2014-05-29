@@ -8,4 +8,4 @@ The code used to download and collect the statistics from play.usaultimate.org i
 If you want to just get the stats, check out the [men's csv](https://github.com/llimllib/2014collegechamps/blob/master/mens_gamestats.csv) or the
 [women's csv](https://github.com/llimllib/2014collegechamps/blob/master/womens_gamestats.csv).
 
-If you want to run the ipython notebooks and have python and pip install, just run `make notebook`
+If you want to run the ipython notebooks and have python and pip installed, just run `make notebook`
